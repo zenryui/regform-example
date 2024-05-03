@@ -1,0 +1,32 @@
+C:\Users\Ferg\Desktop\ITELECT_REGFORM\bin\Debug\ITELECT_REGFORM.exe.config
+C:\Users\Ferg\Desktop\ITELECT_REGFORM\bin\Debug\ITELECT_REGFORM.exe
+C:\Users\Ferg\Desktop\ITELECT_REGFORM\bin\Debug\ITELECT_REGFORM.pdb
+C:\Users\Ferg\Desktop\ITELECT_REGFORM\bin\Debug\ITELECT_REGFORM.xml
+C:\Users\Ferg\Desktop\ITELECT_REGFORM\obj\Debug\ITELECT_REGFORM.vbproj.AssemblyReference.cache
+C:\Users\Ferg\Desktop\ITELECT_REGFORM\obj\Debug\ITELECT_REGFORM.Resources.resources
+C:\Users\Ferg\Desktop\ITELECT_REGFORM\obj\Debug\ITELECT_REGFORM.vbproj.GenerateResource.cache
+C:\Users\Ferg\Desktop\ITELECT_REGFORM\obj\Debug\ITELECT_REGFORM.vbproj.CoreCompileInputs.cache
+C:\Users\Ferg\Desktop\ITELECT_REGFORM\obj\Debug\ITELECT_REGFORM.exe
+C:\Users\Ferg\Desktop\ITELECT_REGFORM\obj\Debug\ITELECT_REGFORM.xml
+C:\Users\Ferg\Desktop\ITELECT_REGFORM\obj\Debug\ITELECT_REGFORM.pdb
+C:\Users\Ferg\Desktop\ITELECT_REGFORM\bin\Debug\Guna.UI2.dll
+C:\Users\Ferg\Desktop\ITELECT_REGFORM\obj\Debug\ITELECT_REGFORM.RegistrationForm.resources
+C:\Users\Ferg\Desktop\ITELECT_REGFORM\obj\Debug\ITELECT_.8ACBD737.Up2Date
+C:\Users\Ferg\Desktop\ITELECT_REGFORM\obj\Debug\ITELECT_REGFORM.LoginForm.resources
+C:\Users\Ferg\Desktop\ITELECT_REGFORM\obj\Debug\ITELECT_REGFORM.ChangePasswordForm.resources
+E:\OTHER FILE\Desktop\ITELECT_REGFORM\bin\Debug\ITELECT_REGFORM.exe.config
+E:\OTHER FILE\Desktop\ITELECT_REGFORM\bin\Debug\ITELECT_REGFORM.exe
+E:\OTHER FILE\Desktop\ITELECT_REGFORM\bin\Debug\ITELECT_REGFORM.pdb
+E:\OTHER FILE\Desktop\ITELECT_REGFORM\bin\Debug\ITELECT_REGFORM.xml
+E:\OTHER FILE\Desktop\ITELECT_REGFORM\bin\Debug\Guna.UI2.dll
+E:\OTHER FILE\Desktop\ITELECT_REGFORM\obj\Debug\ITELECT_REGFORM.vbproj.AssemblyReference.cache
+E:\OTHER FILE\Desktop\ITELECT_REGFORM\obj\Debug\ITELECT_REGFORM.ChangePasswordForm.resources
+E:\OTHER FILE\Desktop\ITELECT_REGFORM\obj\Debug\ITELECT_REGFORM.LoginForm.resources
+E:\OTHER FILE\Desktop\ITELECT_REGFORM\obj\Debug\ITELECT_REGFORM.Resources.resources
+E:\OTHER FILE\Desktop\ITELECT_REGFORM\obj\Debug\ITELECT_REGFORM.RegistrationForm.resources
+E:\OTHER FILE\Desktop\ITELECT_REGFORM\obj\Debug\ITELECT_REGFORM.vbproj.GenerateResource.cache
+E:\OTHER FILE\Desktop\ITELECT_REGFORM\obj\Debug\ITELECT_REGFORM.vbproj.CoreCompileInputs.cache
+E:\OTHER FILE\Desktop\ITELECT_REGFORM\obj\Debug\ITELECT_.8ACBD737.Up2Date
+E:\OTHER FILE\Desktop\ITELECT_REGFORM\obj\Debug\ITELECT_REGFORM.exe
+E:\OTHER FILE\Desktop\ITELECT_REGFORM\obj\Debug\ITELECT_REGFORM.xml
+E:\OTHER FILE\Desktop\ITELECT_REGFORM\obj\Debug\ITELECT_REGFORM.pdb
